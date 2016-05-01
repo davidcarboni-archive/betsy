@@ -1,0 +1,56 @@
+total 0
+drwxr-xr-x   7 david  staff  238  1 May 08:11 damage
+drwxr-xr-x  24 david  staff  816  1 May 08:29 inside
+drwxr-xr-x  21 david  staff  714  1 May 08:17 outside
+
+photos/damage:
+total 27952
+-rwxr-xr-x@ 1 david  staff  3538431 30 Apr 11:51 back_bumper_left.jpg
+-rwxr-xr-x@ 1 david  staff  3719305 30 Apr 11:51 back_bumper_middle.jpg
+-rwxr-xr-x@ 1 david  staff  3715933 30 Apr 10:41 back_bumper_right.jpg
+-rwxr-xr-x@ 1 david  staff  3326778 30 Apr 11:50 right_rear.jpg
+
+photos/inside:
+total 148304
+-rwxr-xr-x@ 1 david  staff  3783541 30 Apr 10:42 armrest.jpg
+-rwxr-xr-x@ 1 david  staff  3650821 30 Apr 11:56 back_seats_high.jpg
+-rwxr-xr-x@ 1 david  staff  3966608 30 Apr 11:51 back_seats_left.jpg
+-rwxr-xr-x@ 1 david  staff  3256727 30 Apr 11:54 back_seats_low.jpg
+-rwxr-xr-x@ 1 david  staff  3506636 30 Apr 11:49 back_seats_right.jpg
+-rwxr-xr-x@ 1 david  staff  3750393 30 Apr 10:42 boot.jpg
+-rwxr-xr-x@ 1 david  staff  3436281 30 Apr 10:41 boot_cover.jpg
+-rwxr-xr-x@ 1 david  staff  3764798 30 Apr 11:52 cockpit.jpg
+-rwxr-xr-x@ 1 david  staff  3584008 30 Apr 11:51 console.jpg
+-rwxr-xr-x@ 1 david  staff  3819500 30 Apr 11:54 dashboard.jpg
+-rwxr-xr-x@ 1 david  staff  3195368 30 Apr 11:52 dashboard_driver.jpg
+-rwxr-xr-x@ 1 david  staff  3217947 30 Apr 11:49 dashboard_passenger.jpg
+-rwxr-xr-x@ 1 david  staff  4661626 30 Apr 11:53 driver_door.jpg
+-rwxr-xr-x@ 1 david  staff  3892362 30 Apr 11:50 driver_seat.jpg
+-rwxr-xr-x@ 1 david  staff  3213737 30 Apr 11:49 front_seats_back_left.jpg
+-rwxr-xr-x@ 1 david  staff  3208619 30 Apr 11:51 front_seats_back_right.jpg
+-rwxr-xr-x@ 1 david  staff  4091526 30 Apr 11:56 front_seats_driver.jpg
+-rwxr-xr-x@ 1 david  staff  3174242 30 Apr 11:49 front_seats_left.jpg
+-rwxr-xr-x@ 1 david  staff  3683507 30 Apr 10:41 passenger_door.jpg
+-rwxr-xr-x@ 1 david  staff  3630206 30 Apr 11:51 passenger_door_left.jpg
+-rwxr-xr-x@ 1 david  staff  3393873 30 Apr 10:42 passenger_door_right.jpg
+
+photos/outside:
+total 127640
+-rwxr-xr-x@ 1 david  staff  3996802 30 Apr 11:56 back.jpg
+-rwxr-xr-x@ 1 david  staff  3512174 30 Apr 11:55 corner_front_left.jpg
+-rwxr-xr-x@ 1 david  staff  3593100 30 Apr 11:53 corner_front_right.jpg
+-rwxr-xr-x@ 1 david  staff  3625662 30 Apr 11:53 corner_left_back.jpg
+-rwxr-xr-x@ 1 david  staff  3509543 30 Apr 11:56 corner_right_back.jpg
+-rwxr-xr-x@ 1 david  staff  3329170 30 Apr 11:54 front.jpg
+-rwxr-xr-x@ 1 david  staff  3346905 30 Apr 11:55 front_closeup.jpg
+-rwxr-xr-x@ 1 david  staff  3172180 30 Apr 10:41 front_top.jpg
+-rwxr-xr-x@ 1 david  staff  3318651 30 Apr 11:56 left.jpg
+-rwxr-xr-x@ 1 david  staff  3626606 30 Apr 11:52 left_back.jpg
+-rwxr-xr-x@ 1 david  staff  3679362 30 Apr 11:53 left_front.jpg
+-rwxr-xr-x@ 1 david  staff  4351609 30 Apr 11:54 right.jpg
+-rwxr-xr-x@ 1 david  staff  3560874 30 Apr 11:52 right_back.jpg
+-rwxr-xr-x@ 1 david  staff  4462147 30 Apr 11:54 right_front.jpg
+-rwxr-xr-x@ 1 david  staff  3545846 30 Apr 11:55 wheel_left_back.jpg
+-rwxr-xr-x@ 1 david  staff  3546243 30 Apr 11:55 wheel_left_front.jpg
+-rwxr-xr-x@ 1 david  staff  3558774 30 Apr 11:53 wheel_right_back.jpg
+-rwxr-xr-x@ 1 david  staff  3579346 30 Apr 11:53 wheel_right_front.jpg
