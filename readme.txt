@@ -1,1 +1,1 @@
-Based on https://shapebootstrap.net/item/1524970-cyrus-studio-free-bootstrap-portfolio-theme
+Based on http://thebootstrapthemes.com/photography-free-theme/
